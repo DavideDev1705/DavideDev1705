@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 
 ![MasterHead](https://github.com/DavideDev1705/DavideDev1705/blob/main/banner.png)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)]([https://github.com/anuraghazra](https://github.com/DavideDev1705/DavideDev1705)/github-readme-stats)
+
+
 ### Hi there 👋
