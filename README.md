@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![MasterHead](https://github.com/DavideDev1705/DavideDev1705/blob/main/banner.png)
+
 
 <div id="header" align="center">
+  <img src="https://github.com/DavideDev1705/DavideDev1705/blob/0ff67424bb515606e66987d5e721ee8e3f42b529/header.png">
   <div id="badges">
     <a href="#">
       <img src="https://img.shields.io/badge/LinkedIn-green?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -28,7 +29,7 @@ Here are some ideas to get you started:
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=DavideDev1705&style=flat-square&color=orange" alt=""/>
-  <br><br> Hi there 👋
+  <br><br> Hi there 👋 I'm Davide
 </div>
 <div align="left">
   <hr>
@@ -107,5 +108,5 @@ Here are some ideas to get you started:
 </div>
   
 <div id="footer" align="center">
-  
+  <img src="https://github.com/DavideDev1705/DavideDev1705/blob/0ff67424bb515606e66987d5e721ee8e3f42b529/footer.png">
 </div>
