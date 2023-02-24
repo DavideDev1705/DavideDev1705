@@ -15,7 +15,23 @@ Here are some ideas to get you started:
 
 ![MasterHead](https://github.com/DavideDev1705/DavideDev1705/blob/main/banner.png)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DavideDev1705&repo=DavideDev1705)](https://github.com/DavideDev1705/DavideDev1705)
+<div id="header" align="center">
+  <div id="badges">
+    <a href="your-linkedin-URL">
+      <img src="https://img.shields.io/badge/LinkedIn-green?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="your-youtube-URL">
+      <img src="https://img.shields.io/badge/YouTube-yellow?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    </a>
+    <a href="your-twitter-URL">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=DavideDev1705&style=flat-square&color=orange" alt=""/>
+  <br><br> Hi there 👋
+</div>
+<div align="center">
+  <hr style="height:3px;border-width:0;color:yellow;background-color:yellow">
+</div>
 
 
-### Hi there 👋
