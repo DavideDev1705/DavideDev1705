@@ -17,21 +17,82 @@ Here are some ideas to get you started:
 
 <div id="header" align="center">
   <div id="badges">
-    <a href="your-linkedin-URL">
+    <a href="#">
       <img src="https://img.shields.io/badge/LinkedIn-green?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="your-youtube-URL">
+    <a href="#">
       <img src="https://img.shields.io/badge/YouTube-yellow?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
-    <a href="your-twitter-URL">
+    <a href="#">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=DavideDev1705&style=flat-square&color=orange" alt=""/>
   <br><br> Hi there 👋
 </div>
-<div align="center">
-  <hr style="height:3px;border-width:0;color:yellow;background-color:yellow">
+<div align="left">
+  <hr>
+  <b>About Me :</b><br>
+  I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Sweden.
+
+  In my free I spend time doing my hobbies: 
+   - :books: Read manga
+   - :fish: Go fishing
+   - :basketball: Play basketball
+   - :camera_flash: Digital illustration & Photography
+   - :desktop_computer: Coding, web design, CICD pipelines for my personal projects
+   - :earth_africa: Travelling
+  <div align="center">:orange_circle: :green_circle: :yellow_circle: :large_blue_circle: :red_circle: :purple_circle:</div>
+  
+  :hammer_and_wrench: <b>Languages and Tools :</b><br>
+  <div>
+  Source Code Editor: <br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="vscode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" title="Atom" alt="atom" width="40" height="40"/>&nbsp;
+  <br>
+    
+  Web developing: <br>  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+    <br>
+  
+  Automation: <br>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="terraform" width="40" height="40"/>
+    <br>
+  
+  Cloud Computing Platform: <br>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="azure" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+    <br>
+   
+  OS: <br>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="windows" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="linux" width="40" height="40"/>
+    <br>
+    
+  Digital Illustration: <br>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" **alt="photoshop" width="40" height="40"/>
+    <br>
+  
+  CMS: <br>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress" **alt="wordpress" width="40" height="40"/>
+    <br>
+    
+  DBs: <br>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+    <br>
+    
+  Developing Environment Tools:
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="nginx" width="40" height="40"/>
+   
+   </div>
 </div>
+
 
 
