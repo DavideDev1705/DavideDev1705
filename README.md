@@ -101,10 +101,8 @@ Here are some ideas to get you started:
 
 <div align="center">
   
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DavideDev1705&theme=dark&background=000000)](https://git.io/streak-stats) 
+| [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DavideDev1705&theme=dark&background=000000)](https://git.io/streak-stats) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavideDev1705&show_icons=true&theme=chartreuse-dark) |
   
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavideDev1705&show_icons=true&theme=chartreuse-dark)
-    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavideDev1705&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
