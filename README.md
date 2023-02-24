@@ -44,14 +44,14 @@ Here are some ideas to get you started:
    - :earth_africa: Travelling
   <div align="center">:orange_circle: :green_circle: :yellow_circle: :large_blue_circle: :red_circle: :purple_circle:</div>
   
-  :hammer_and_wrench: <b>Languages and Tools :</b><br>
+  :hammer_and_wrench: <b>Languages and Tools :</b>
   <div>
-  Source Code Editor: <br>
+  Source Code Editor:
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="vscode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" title="Atom" alt="atom" width="40" height="40"/>&nbsp;
   <br>
     
-  Web developing: <br>  
+  Web developing:
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -59,30 +59,30 @@ Here are some ideas to get you started:
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
     <br>
   
-  Automation: <br>
+  Automation:
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="terraform" width="40" height="40"/>
     <br>
   
-  Cloud Computing Platform: <br>
+  Cloud Computing Platform:
     <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="azure" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
     <br>
    
-  OS: <br>
+  OS:
     <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="windows" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="linux" width="40" height="40"/>
     <br>
     
-  Digital Illustration: <br>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" **alt="photoshop" width="40" height="40"/>
+  Digital Illustration:
+    <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="photoshop" width="40" height="40"/>
     <br>
   
-  CMS: <br>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress" **alt="wordpress" width="40" height="40"/>
+  CMS:
+    <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress" alt="wordpress" width="40" height="40"/>
     <br>
     
-  DBs: <br>
+  DBs:
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
     <br>
     
@@ -90,7 +90,8 @@ Here are some ideas to get you started:
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="nginx" width="40" height="40"/>
-   
+    <br>
+    
    </div>
 </div>
 
