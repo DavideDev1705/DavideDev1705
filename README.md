@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </div>
 <div align="left">
   <hr>
-  <b>About Me :</b><br>
+  <div align="center"><b>About Me</b></div>
   I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Sweden.
 
   In my free I spend time doing my hobbies: 
@@ -43,13 +43,13 @@ Here are some ideas to get you started:
    - :desktop_computer: Coding, web design, CICD pipelines for my personal projects
    - :earth_africa: Travelling
   <div align="center">:orange_circle: :green_circle: :yellow_circle: :large_blue_circle: :red_circle: :purple_circle:</div>
-  
-  :hammer_and_wrench: <b>Languages and Tools :</b>
+  <br>
+  <div align="center"><b>Languages and Tools</b></div>
   <div>
   Source Code Editor:
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="vscode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" title="Atom" alt="atom" width="40" height="40"/>&nbsp;
-  <br>
+  <br><br>
     
   Web developing:
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -90,10 +90,22 @@ Here are some ideas to get you started:
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="nginx" width="40" height="40"/>
-    <br>
     
    </div>
 </div>
+<div align="center">:orange_circle: :green_circle: :yellow_circle: :large_blue_circle: :red_circle: :purple_circle:</div>
+<br>
+<div align="center"><b>My Stats</b></div>
+<br>
 
-
-
+<div align="center">
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DavideDev1705&theme=dark&background=000000)](https://git.io/streak-stats)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavideDev1705&show_icons=true&theme=chartreuse-dark) 
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavideDev1705&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
+  
+<div id="footer" align="center">
+  
+</div>
